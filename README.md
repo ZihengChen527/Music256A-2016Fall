@@ -1,2 +1,3 @@
-# Music256A-2016Fall
-Homework and projects for Music256A
+# Music256A-2016Fall-Homework1
+Waveform Player
+
