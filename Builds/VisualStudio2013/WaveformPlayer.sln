@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2013
+Project("{FECB1D00-A82F-E96B-376A-ADE6135C5E5A}") = "WaveformPlayer", "WaveformPlayer.vcxproj", "{7192F256-E812-1F0E-4027-315C4297072C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7192F256-E812-1F0E-4027-315C4297072C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7192F256-E812-1F0E-4027-315C4297072C}.Debug|Win32.Build.0 = Debug|Win32
+		{7192F256-E812-1F0E-4027-315C4297072C}.Release|Win32.ActiveCfg = Release|Win32
+		{7192F256-E812-1F0E-4027-315C4297072C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
